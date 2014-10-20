@@ -1,4 +1,4 @@
-?.# homework 繳交方式
+.# homework 繳交方式
 
 
 
