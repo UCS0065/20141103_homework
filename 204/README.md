@@ -1,8 +1,5 @@
-.# homework ú��覡
+﻿# homework 繳交方式
 
+* 請找到"相對應題號的資料夾"內上傳作業
 
-
-* �Ч��"�۹����D������Ƨ�"���W�ǧ@�~
-
-
-* �Ҧp�W���D��102: training/20140929EX/102/Rxxxxx(�Ǹ�)/abc.png
+* 例如上傳題號102: training/20140929EX/102/Rxxxxx(學號)/abc.png
